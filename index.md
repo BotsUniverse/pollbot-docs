@@ -25,7 +25,7 @@
 
 - [Dependencies / Limitations](#limitations)
 - [Future Scope](#future_scope)
-- [Setting up a local environment](#getting_started)
+- [Setting up a Heroku environment](#getting_started)
 - [Usage](#usage)
 - [Contributing](../CONTRIBUTING.md)
 - [Authors](#authors)

@@ -32,42 +32,46 @@
 ## ⛓️ Dependencies / Limitations <a name = "limitations"></a>
 - pyTelegramBotApi
 - Heroku
-- 
-- Provide the reasons why each limitation could not be overcome using the method(s) chosen to acquire.
-- Assess the impact of each limitation in relation to the overall findings and conclusions of your project, and if 
-appropriate, describe how these limitations could point to the need for further research.
+- appdirs
+- pyparsing
+- requests
 
 ## 🚀 Future Scope <a name = "future_scope"></a>
-Write about what you could not develop during the course of the Hackathon; and about what your project can achieve 
-in the future.
+Make Awsome Inline Poll Bot for the whole telegram
 
 ## 🏁 Getting Started <a name = "getting_started"></a>
-These instructions will get you a copy of the project up and running on your local machine for development 
-and testing purposes. See [deployment](#deployment) for notes on how to deploy the project on a live system.
+There Are Many Ways to Deploy But Here I Will Share Hreoku<br>
+First Fork [Repository](https://github.com/BotsUniverse/poll-bot)
+Then Edit Config.py To Your Varibles
+Then Save It And Atlast You Can Find The Heroku Button
 
 ### Prerequisites
+- A Heroku Account
+- Patience 
 
-What things you need to install the software and how to install them.
-
-
-### Installing
-
+### Installing <a name = "deployment">
+Head To Heroku Connect Your App<br>
+and Manual Fork Deploy It Or Go to your Forked Repostiory For Details
 
 
 ## 🎈 Usage <a name="usage"></a>
-
+- Creating Polls Fastly
+- Simpliefied
 
 ## ⛏️ Built With <a name = "tech_stack"></a>
--
--
+- Python
+- pyTelegramBotApi
 
 ## ✍️ Authors <a name = "authors"></a>
-- [@rohith-sreedharan](https://github.com/rohith-sreedharan) - Idea & Initial work
+- [@Parvat-r](https:github.com/parvat-r) - Idea & Initial work
+- [rohith-sreedharan](https://github.com/rohith-sreedharan) - Simplied And Code
 
-See also the list of [contributors](https://github.com/rohith-sreedharan/git/contributors) 
+See also the list of [contributors](https://github.com/BotsUniverse/poll-bot/graphs/contributors) 
 who participated in this project.
 
 ## 🎉 Acknowledgments <a name = "acknowledgments"></a>
-- Hat tip to anyone whose code was used
-- Inspiration
-- References
+- Inspiration - @PollBot [Telegram]
+
+## Copyright
+(C) Rohith SV
+All Rights Reserved

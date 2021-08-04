@@ -1,6 +1,6 @@
 <p align="center">
   <a href="" rel="noopener">
- <img src="https://telegra.ph/file/72c837e4f3a3b2c70e170.jpg" alt="Project logo"></a>
+ <img src="https://Botsuniverse.github.io/favicon.svg" width='50%'alt="Project logo"></a>
 </p>
 <h3 align="center">POLL BOT</h3>
 

@@ -6,12 +6,11 @@
 
 <div align="center">
  
+<img src = "https://img.shields.io/badge/status-active-success.svg"/>
+<img src = "https://img.shields.io/github/issues/Botsuniverse/poll-bot"/>
+<img src = "https://img.shields.io/github/issues-pr/Botsuniverse/poll-bot"/>
+<img src = "https://img.shields.io/badge/license-MIT-blue.svg"/>
   
-  [![Status](https://img.shields.io/badge/status-active-success.svg)]() 
-  [![GitHub Issues](https://img.shields.io/github/issues/Botsuniverse/poll-bot)](https://github.com/Botsuniverse/poll-bot)
-  [![GitHub Pull Requests](https://img.shields.io/github/issues-pr/Botsuniverse/poll-bot)](https://github.com/Botsuniverse/poll-bot/pulls)
-  [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE.md)
-
   
   
 </div>

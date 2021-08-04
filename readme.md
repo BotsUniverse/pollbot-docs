@@ -63,8 +63,8 @@ and Manual Fork Deploy It Or Go to your Forked Repostiory For Details
 - pyTelegramBotApi
 
 ## ✍️ Authors <a name = "authors"></a>
-- [@Parvat-r](https:github.com/parvat-r) - Idea & Initial work
-- [rohith-sreedharan](https://github.com/rohith-sreedharan) - Simplied And Code
+- [@Parvat-r](https://github.com/parvat-r) - Idea & Initial work
+- [@Rohith-sreedharan](https://github.com/rohith-sreedharan) - Simplied And Code
 
 See also the list of [contributors](https://github.com/BotsUniverse/poll-bot/graphs/contributors) 
 who participated in this project.

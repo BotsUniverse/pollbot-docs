@@ -1,16 +1,19 @@
 <p align="center">
   <a href="" rel="noopener">
- <img src="https://Botsuniverse.github.io/favicon.svg" width='50%'alt="Project logo"/></a>
+ <img src="https://Botsuniverse.github.io/favicon.svg" width='50%' alt="Project logo"/></a>
 </p>
 <h3 align="center">POLL BOT</h3>
 
 <div align="center">
  
+  
   [![Status](https://img.shields.io/badge/status-active-success.svg)]() 
   [![GitHub Issues](https://img.shields.io/github/issues/Botsuniverse/poll-bot)](https://github.com/Botsuniverse/poll-bot)
   [![GitHub Pull Requests](https://img.shields.io/github/issues-pr/Botsuniverse/poll-bot)](https://github.com/Botsuniverse/poll-bot/pulls)
   [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE.md)
 
+  
+  
 </div>
 
 ---

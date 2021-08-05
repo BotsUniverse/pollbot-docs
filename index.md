@@ -44,7 +44,7 @@ Make Awsome Inline Poll Bot for the whole telegram
 ## 🏁 Getting Started <a name = "getting_started"></a>
 There Are Many Ways to Deploy But Here I Will Share Hreoku<br>
 First Fork [Repository](https://github.com/BotsUniverse/poll-bot)
-Then Edit Config.py To Your Varibles
+Then Edit Bot.py [in line 22](https://github.com/BotsUniverse/poll-bot/blob/main/Bot.py#L22) To Your Varibles
 Then Save It And Atlast You Can Find The Heroku Button
 
 ### Prerequisites
